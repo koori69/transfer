@@ -1,0 +1,8 @@
+{
+  "name": "Transfer",
+  "description": "deploy Transfer to Heroku.",
+  "keywords": ["transfer"],
+  "website": "https://github.com/koori69/transfer",
+  "repository": "https://github.com/koori69/transfer",
+  "stack": "container"
+}
