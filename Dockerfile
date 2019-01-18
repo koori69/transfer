@@ -1,4 +1,4 @@
-FROM heroku/heroku
+FROM heroku/heroku:18
 
 COPY tvdb-transfer /tvdb-transfer
 
